@@ -64,7 +64,10 @@ for nome in df['NOME FAVORECIDO']:
   generos.append(classifica(nome.split()[0]))
   
 df['GENERO'] = generos
-  
+
+#%%
+
+
   
   
 
